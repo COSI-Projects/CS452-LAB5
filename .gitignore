@@ -20,3 +20,11 @@
 #stuff
 *~
 *.out
+
+*.obj
+*.mtl
+*.png
+*.jpg
+*.swp
+*.trace
+lab4
